@@ -1,0 +1,17 @@
+*{
+    margin:0%;
+    padding: 0;
+    box-sizing:border-box;
+    list-style: none;
+}
+
+.container{
+    text-align: left;
+    font: 200;
+    font-family: 'Times New Roman', Times, serif;
+}
+.topnav{
+    text-align: right;
+    text-transform: none;
+    
+}
